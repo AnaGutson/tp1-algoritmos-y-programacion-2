@@ -1,0 +1,5 @@
+Snorlax;44;9;azul
+Geodude;19;49;blanquirrojo
+Quagsire;32;21;violeta
+Kangaskhan;222;222;rojo
+Gengar;1;22;rosa
